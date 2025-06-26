@@ -1,2 +1,2 @@
-# nish-Valivadekar-Trader-Behavior-Analytics
+# Anish-Valivadekar-Trader-Behavior-Analytics
 A data analytics project to study trader behavior using sentiment data
