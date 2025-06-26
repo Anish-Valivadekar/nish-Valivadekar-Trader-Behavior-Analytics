@@ -7,8 +7,9 @@ This project explores how trader performance is impacted by market sentiment (Fe
 
  📁 Files Included
 - `Trader_Insights_Assignment.ipynb`: Full notebook with code, analysis, and visualizations
-- `historical_data.csv` *(optional if shared)*
-- `fear_greed_index.csv` *(optional if shared)*
+- `historical_data.csv` 
+- `fear_greed_index.csv`
+
 
  📌 Key Insights
 - Higher profits observed in Extreme Greed
